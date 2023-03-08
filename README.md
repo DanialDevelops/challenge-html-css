@@ -14,3 +14,6 @@ In this project I worked on making a website that followed all accessibility sta
 -Fixed contrast issues with the aside bar allowing for better visibity for people with impairments.
 
 -Condensed CSS files to look cleaner and more organized.
+
+### Image examples of new alt tags
+<img src="images/Alt-tags.png">
