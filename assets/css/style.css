@@ -29,15 +29,16 @@ body {
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
 }
 
 .header div ul {
     list-style-type: none;
+    flex-wrap: nowrap;
 }
 
 .header div ul li {
     display: inline-block;
+    justify-content: space-around;
     margin-left: 25px;
 }
 
