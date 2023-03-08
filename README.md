@@ -6,7 +6,11 @@ In this project I worked on making a website that followed all accessibility sta
 
 ### Corrected errors
 -Nav bar buttons(they now take you to a corresponding location)
+
 -Alt tags given to the images(Gives them a description and allows google to read the website better resulting in a more optimzed website for the search engiene)
+
 -Landmarks added ex. Nav, Main, Aside, Section, Footer.
+
 -Fixed contrast issues with the aside bar allowing for better visibity for people with impairments.
+
 -Condensed CSS files to look cleaner and more organized.
