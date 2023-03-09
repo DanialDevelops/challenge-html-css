@@ -16,4 +16,4 @@ In this project I worked on making a website that followed all accessibility sta
 -Condensed CSS files to look cleaner and more organized.
 
 ### Image examples of new alt tags
-<img src="images/Alt-tags.png">
+![](images/Alt-tags.png)
