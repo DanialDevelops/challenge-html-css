@@ -1,6 +1,6 @@
 # challenge-html-css
 
-## A website that is well optized and follows all accessibility standards
+## A website that is well optmized and follows all accessibility standards
 
 In this project I worked on making a website that followed all accessibility standards and is optimized for the search engiene. To start things off I went throughout the webpage looking for any accessibility issues I could fix, some things I was able to find were no alt tags for the images I also noticed contrast issues with the text in the aside section, and no landmarks to organize the website. 
 
